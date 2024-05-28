@@ -7,7 +7,7 @@ import './style.css';
 // 🔥 FILL THIS OUT FIRST! 🔥
 // 🔥 GET YOUR GEMINI API KEY AT 🔥
 // 🔥 https://g.co/ai/idxGetGeminiKey 🔥
-let API_KEY = 'AIzaSyDeSM79OT_SwJm9fD8-enSmFPqsQkSDDFg';
+let API_KEY = '';
 
 let form = document.querySelector('form');
 let promptInput = document.querySelector('input[name="prompt"]');
